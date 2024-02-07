@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: #8ABD91;
 }
 
 .header_text {
     font-family: 'Nunito';
-    font-size: 50px;
+    font-size: 35px;
     font-weight: bold;
     color: white;
     text-align: center;
